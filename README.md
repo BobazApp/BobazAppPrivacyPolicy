@@ -1,0 +1,2 @@
+# BobazAppPrivacyPolicy
+Bobaz privacy policy
