@@ -1,6 +1,6 @@
----
+
 layout: page
-title: Privacy Policy
+title: "Privacy Policy"
 permalink: https://privacy.bobazapp.com
----
+
 Hello World
